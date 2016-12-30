@@ -17,7 +17,7 @@ python entertainment_center.py
 
 # Altering the code
 * Addition of editing of movies can be done in the entertainment_center.py file
-* [fresh_tomatoes.py](https://github.com/vellabanda/movie_trailer_website/blob/master/fresh_tomatoes.py) has been provided by Udacity. more information can be found [here](https://github.com/allanbreyes/udacity-full-stack/blob/master/p1/fresh_tomatoes.py)
+* [fresh_tomatoes.py](https://github.com/vellabanda/movie_trailer_website/blob/master/fresh_tomatoes.py) has been provided by Udacity. More information can be found [here](https://github.com/allanbreyes/udacity-full-stack/blob/master/p1/fresh_tomatoes.py)
 
 # Author
 * Fresh_tomatoes.py file has been written by Udacity
