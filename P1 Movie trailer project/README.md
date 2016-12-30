@@ -1,5 +1,5 @@
 # Movie Trailer Project
-This project is a part of [Udacity's Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004). 
+by Anurag Mittal, in fulfillment of [Udacity's Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004). 
 In this project a movie trailer website has been created. The website contains a few of my favorite movies names and trailers.
 
 ## Getting Started
