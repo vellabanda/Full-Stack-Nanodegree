@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git directory is created in rhe repository. I need to run the command git init 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is an area where you add files which are ready to be commited. Working directory consists of all the files. And repository consists of all the files including the .git folder. 
+Staging area helps in differentiating which files one is ready to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By checking the logical change
+
+
+How do the diagrams help you visualize the branch structure?
+They help us keep a check and record of all the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+THe commits will combine so will the files. Diagram helps us in keep a track of all the commits and branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: avoid human error of forgetting things
+Cons: we wont have more control. What if we do not want to merge yet?
